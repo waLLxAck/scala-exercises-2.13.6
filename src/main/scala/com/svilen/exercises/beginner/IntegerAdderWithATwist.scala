@@ -2,6 +2,11 @@ package com.svilen.exercises.beginner
 
 import com.svilen.traits.Exercise
 
+/**
+ * 2. Write a Scala program to compute the sum of the two given integer values.
+ * If the two values are the same, then return triples their sum.
+ */
+
 object IntegerAdderWithATwist extends Exercise{
 
   def addTwoIntegersWithATwist(num1: Int, num2: Int): Int = {
