@@ -1,5 +1,16 @@
 package com.svilen.traits
 
-trait Exercise {
-  def run(): Unit
+import com.svilen.util.FileHandler
+
+trait Exercise extends App{
+
+  def run(taskNumber: Int): Unit = {
+    printTaskDescription(FileHandler.getLineFromTask(taskNumber))
+    implementTask()
+
+  }
+
+  def printTaskDescription(taskDescription: String): Unit = println(taskDescription)
+
+  def implementTask(): Unit
 }
