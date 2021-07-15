@@ -1,0 +1,77 @@
+1. Write a Scala program to print "Hello, world" and version of the Scala language. Go to the editor
+Click me to see the sample solution
+
+2. Write a Scala program to compute the sum of the two given integer values. If the two values are the same, then return triples their sum. Go to the editor
+Click me to see the sample solution
+
+3. Write a Scala program to get the absolute difference between n and 51. If n is greater than 51 return triple the absolute difference. Go to the editor
+Click me to see the sample solution
+
+4. Write a Scala program to check two given integers, and return true if one of them is 30 or if their sum is 30. Go to the editor
+Click me to see the sample solution
+
+5. Write a Scala program to check a given integer and return true if it is within 20 of 100 or 300. Go to the editor
+Click me to see the sample solution
+
+6. Write a Scala program to create a new string where 'if' is added to the front of a given string. If the string already begins with 'if', return the string unchanged. Go to the editor
+Click me to see the sample solution
+
+7. Write a Scala program to remove the character in a given position of a given string. The given position will be in the range 0...string length -1 inclusive. Go to the editor
+Click me to see the sample solution
+
+8. Write a Scala program to exchange the first and last characters in a given string and return the new string. Go to the editor
+Click me to see the sample solution
+
+9. Write a Scala program to create a new string which is 4 copies of the 2 front characters of a given string.If the given string length is less than 2 return the original string. Go to the editor
+Click me to see the sample solution
+
+10. Write a Scala program to create a new string with the last char added at the front and back of a given string of length 1 or more. Go to the editor
+Click me to see the sample solution
+
+11. Write a Scala program to check whether a given positive number is a multiple of 3 or a multiple of 7. Go to the editor
+Click me to see the sample solution
+
+12. Write a Scala program to create a new string taking the first 3 characters of a given string and return the string with the 3 characters added at both the front and back. If the given string length is less than 3, use whatever characters are there. Go to the editor
+Click me to see the sample solution
+
+13. Write a Scala program to check whether a given string starts with 'Sc' or not. Go to the editor
+Click me to see the sample solution
+
+14. Write a Scala program to check whether one of the given temperatures is less than 0 and the other is greater than 100. Go to the editor
+Click me to see the sample solution
+
+15. Write a Scala program to check two given integers whether either of them is in the range 100..200 inclusive. Go to the editor
+Click me to see the sample solution
+
+16. Write a Scala program to check whether three given integer values are in the range 20..50 inclusive. Return true if 1 or more of them are in the said range otherwise false. Go to the editor
+Click me to see the sample solution
+
+17. Write a Scala program to check whether two given integer values are in the range 20..50 inclusive. Return true if 1 or other is in the said range otherwise false.
+Click me to see the sample solution
+
+18. Write a Scala program to check whether a string 'yt' appears at index 1 in a given string. If it appears return a string without 'yt' otherwise return the original string. Go to the editor
+Click me to see the sample solution
+
+19. Write a Scala program to check the largest number among three given integers. Go to the editor
+Click me to see the sample solution
+
+20. Write a Scala program to check which number is nearest to the value 100 among two given integers. Return 0 if the two numbers are equal.
+Click me to see the sample solution
+
+21. Write a Scala program to check whether two given integers are in the range 40..50 inclusive, or they are both in the range 50..60 inclusive. Go to the editor
+Click me to see the sample solution
+
+22. Write a Scala program to find the larger value from two positive integer values in the range 20..30 inclusive, or return 0 if neither is in that range. Go to the editor
+Click me to see the sample solution
+
+23. Write a Scala program to check whether a given character presents in a string between 2 to 4 times. Go to the editor
+Click me to see the sample solution
+
+24. Write a Scala program to check whether two given positive integers have the same last digit. Go to the editor
+Click me to see the sample solution
+
+25. Write a Scala program to convert the last 4 characters of a given string in upper case. If the length of the string has less than 4 then uppercase all the characters. Go to the editor
+Click me to see the sample solution
+
+26. Write a Scala program to create a new string which is n (non-negative integer ) copies of a given string. Go to the editor
+Click me to see the sample solution
